@@ -1782,7 +1782,7 @@ Converts Outlook .mbx and .dbx files into standard RFC822 mail files.
 </listitem>
 </itemizedlist>
 <para>
-MHonarc 的配置参见：<ulink url="/doc/maillist_howto/">Maillist Howto</ulink>。
+MHonarc 的配置参见：<ulink url="/doc/mailinglist/">Maillist Howto</ulink>。
 </para>
 
 </sect1>
